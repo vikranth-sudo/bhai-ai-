@@ -15,3 +15,4 @@ The optional built-in wake-word model still listens for **“Hey Jarvis”**. It
 ## Package notes
 
 This is a Windows launcher and source package, not a single self-contained EXE. It keeps the original project license and source documentation; the app's code was rebranded and its Windows first-run flow was added. The separate `rea-main.zip` toolkit is not required to run Bhai.
+
